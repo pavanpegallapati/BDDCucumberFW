@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is needed in new b
+=======
+this is needed in master
+
+this must be in master
+>>>>>>> f79ffe34c5b0fec2ebd583c6574fc71b8b05d506
 
 one
 onetwo
@@ -9,3 +15,5 @@ three
 four
 five
 >>>>>>> 74ab57b93685ec7984a8489ba261d93d3e26ae6c
+
+1234
