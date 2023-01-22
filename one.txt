@@ -1,6 +1,7 @@
 this is needed in master
 
-another master
+this must be in master
+
 three
 four
 five
